@@ -1,16 +1,23 @@
-# rive_flutter
+# 🎨 Integração Flutter com Rive.app
 
-A new Flutter project.
+Integração avançada entre **Flutter** e **Rive.app**, desenvolvida para criar animações interativas, fluidas e responsivas dentro de aplicativos móveis.  
+Este projeto demonstra como combinar a performance do Flutter com o poder do Rive para dar vida a interfaces modernas e dinâmicas.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter** — Framework para desenvolvimento multiplataforma.  
+- **Rive.app** — Ferramenta de design e animação vetorial interativa.  
+- **Dart** — Linguagem principal do projeto.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Recursos Principais
+
+- Animações vetoriais integradas diretamente ao app.  
+- Controle de estados e transições via código.  
+- Utilização de artboards e controllers personalizados.  
+- Arquitetura limpa e modular para fácil manutenção.  
+- Compatível com Android e iOS.  
+
