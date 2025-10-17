@@ -15,8 +15,9 @@ Este projeto demonstra como combinar a performance do Flutter com o poder do Riv
 
 ## 🧩 Recursos Principais
 
-- Animações vetoriais integradas diretamente ao app.  
-- Controle de estados e transições via código.  
+- Animações vetoriais de engrenagens e de um coração.  
+- Controle de estados e transições via código.
+- mudança de tela automatica   
 - Utilização de artboards e controllers personalizados.  
 - Arquitetura limpa e modular para fácil manutenção.  
 - Compatível com Android e iOS.  
